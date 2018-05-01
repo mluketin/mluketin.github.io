@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: Marin Luketin
 url: 'http://mluketin.github.io'
 baseurl: '/' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
