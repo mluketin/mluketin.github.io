@@ -17,10 +17,13 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Marin Luketin
 tagline: Software Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'I am a master student at the University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia.
+This semester I am working on my Master Thesis at EPFL, Switzerland at CHILI Lab. (you can see project 
+I am working on under the project sections of this page). I started working as a student in November 2015. For the last two years 
+I have been working at Ericsson on a real-time communication platform. I have a general interest in programming and software development.
+I love programming and creating something weather it is mobile, web, desktop or server application. 
+I am also interested in new technologies and languages. 
+If you have any questions for me, please do not hesitate to contact me.'
 
 #sidebar links
 email: marin.luketin@gmail.com
