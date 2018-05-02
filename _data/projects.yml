@@ -3,11 +3,11 @@ projects:
   - project:
     title: FROG - videochat activity
     link: "https://github.com/chili-epfl/FROG"
-    tagline: "FROG is a platform for collaborative learning. I am working on this project as part of ma Master Thesis.
+    tagline: "FROG is a platform for collaborative learning. I am working on this project as part of my Master Thesis.
     My task is to implement video conferencing into this platform. Use case scenario: during the lecture, students
-    are grouped in groups of 5 to discuss some topic. Each group is offered few statements and they need to 
+    are grouped into the groups of 5 to discuss some topic. Each group is offered few statements and they need to 
     decide weather they agree with a statement or not. Video chat (video conferencing) is a perfect way to help students 
-    to collaborate (instead of having only text based chat) and discuss those statements."
+    to collaborate (instead of having to only use text based chat) and discuss those statements."
   - project:
     title: OmegaChat
     link: "https://omegachat.azurewebsites.net"
