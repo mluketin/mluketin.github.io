@@ -12,7 +12,7 @@ projects:
     title: OmegaChat
     link: "https://omegachat.azurewebsites.net"
     tagline: "My current project that I work on in my free time. Web application and Android application (currently not on Google Play). Idea is
-    that I want to replace all of WhatsApp, Viber, Facebook, Hangouts, etc) that I currently use with
+    that I want to replace all of WhatsApp, Viber, Facebook, Hangouts, etc that I currently use with
     my own platform for sending messages and calling (and video calls)."
   - project:
     title: java-notepad
