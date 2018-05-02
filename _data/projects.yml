@@ -1,23 +1,36 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "This is a list of my projects. If you have any questions, please contact me."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: OmegaChat
+    link: "https://omegachat.azurewebsites.net"
+    tagline: "My current project that I do in free time. Web application and Android application (currently not on Google Play). Idea is
+    that I want to replace all of WhatsApp, Viber, Facebook, Hangouts, etc) that I currently use with
+    my own platform for sending messages and calling (and video calls)."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: java-notepad
+    link: "https://github.com/mluketin/java-notepad"
+    tagline: "Java Notepad project for Design Patterns in Software Design course."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: java-paint
+    link: "https://github.com/mluketin/java-paint"
+    tagline: "Java Paint project for course Design Patterns in Software Design."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: haskell-manga-reader
+    link: "https://github.com/mluketin/haskell-manga-reader"
+    tagline: "This project was done as part of Programming in Haskell course at University of Zagreb. After building and running application,
+    small localhost server will be set up that will scrape manga website and allow user to read manga without being bothered with adds and pop-ups"
   - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: scalaq
+    link: "https://github.com/mluketin/scalaq"
+    tagline: "As part of my BSc Thesis, I created library for creating questionnaires (surveys) called scalaq. Library is written in Scala
+    and is used in scalaq-demo web application. Idea was to create library that will enable developers to create all kinds of questions for
+    their survey applications. (Note: This was my first project in Scala)"
+  - project: 
+    title: scalaq-demo
+    link: "https://github.com/mluketin/scalaq-demo"
+    tagline: "Web application written in Scala and Play! framework. Application allows users to create surveys, create links that they
+    can send to other users who will complete survey. Users can also download statistics on completed surveys. For database I used postgres,
+    and ORM was done with DSL Platform (https://dsl-platform.com/). Exporting statistics into Excel spreadsheet was 
+    done with Templater (http://templater.info/).
+    (Note: This was my first real web application and first project in Scala. Both scalaq and scalaq-demo are not some
+    state-of-the art projects."
