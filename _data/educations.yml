@@ -1,16 +1,22 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Master Thesis
+  university: EPFL, Switzerland
+  time: Spring 2018
+  details: "My task for my Master Thesis at EPFL is to implement WebRTC conferencing in FROG platform.
+  FROG is an open-source web-platform to author (design) and run rich collaborative learning activities.
+  It introduces a concept of pluggable activity types (like video player, quiz, brainstorming or programming exercises), 
+  which can be configured by the designer, and connected in a learning graph, with data from one activity being transformed and reused in another (ideas from a brainstorm flowing into a concept map tool), 
+  and with pluggable “operators”, which can transform data, intelligently group students, etc. through the use of algorithms and machine learning.
+  While the teacher runs the class, intelligent visualizations show not only simple facts like, for example, how many people have watched a given video,
+  but can provide predictions based upon analysis of student actions with the activities. 
+  This platform might be used in small classrooms, large lectures or MOOCs."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: MSc in Computer Science
+  university: University of Zagreb, Croatia
+  time: 2016 - 2018
+  details: "Profile: Software Engineering and Information Systems"
+- education:
+  degree: BSc in Computer Science
+  university: University of Zagreb, Croatia
+  time: 2012 - 2016
+  details: "Profile: Software Engineering and Information Systems"
