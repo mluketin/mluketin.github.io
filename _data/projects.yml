@@ -6,7 +6,7 @@ projects:
     tagline: "FROG is a platform for the collaborative learning. I am working on this project as a part of my Master Thesis.
     My task is to implement video conferencing into this platform. For example: during the lecture, students
     are divided into the smaller groups of 5 to discuss some topics. Each group is offered a few statements and they need to 
-    decide wheather they agree with a statement or not. 
+    decide whether they agree with a statement or not. 
     By using video chat (video conferencing) instead of the text based chat, students are
     offered better options/possibilities to collaborate and discuss the given statements."
   - project:
