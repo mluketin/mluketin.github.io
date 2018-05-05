@@ -45,4 +45,4 @@ projects:
     to other users who will complete the survey. 
     The users can also download statistics on completed surveys. For database I used Postgres,
     and ORM was done with DSL Platform (https://dsl-platform.com/). Exporting statistics into Excel spreadsheet was 
-    done with Templater (http://templater.info/).
+    done with Templater (http://templater.info/)."
