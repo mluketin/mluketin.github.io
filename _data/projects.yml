@@ -1,19 +1,21 @@
-intro: "This is a list of my projects. If you have any questions, please contact me."
+intro: "Here is a list of my projects. If you have any questions, please contact me."
 projects:
   - project:
     title: FROG - videochat activity
     link: "https://github.com/chili-epfl/FROG"
-    tagline: "FROG is a platform for collaborative learning. I am working on this project as part of my Master Thesis.
-    My task is to implement video conferencing into this platform. Use case scenario: during the lecture, students
-    are grouped into the groups of 5 to discuss some topic. Each group is offered a few statements and they need to 
-    decide wheather they agree with a statement or not. Video chat (video conferencing) is a perfect way to help students 
-    to collaborate (instead of having to only use text based chat) and discuss those statements."
+    tagline: "FROG is a platform for the collaborative learning. I am working on this project as a part of my Master Thesis.
+    My task is to implement video conferencing into this platform. For example: during the lecture, students
+    are divided into the smaller groups of 5 to discuss some topics. Each group is offered a few statements and they need to 
+    decide wheather they agree with a statement or not. 
+    By using video chat (video conferencing) instead of the text based chat, students are
+    offered better options/possibilities to collaborate and discuss the given statements.
   - project:
     title: OmegaChat
     link: "https://omegachat.azurewebsites.net"
-    tagline: "My current project that I work on in my free time. Web application and Android application (currently not on Google Play). Idea is
-    that I want to replace all of WhatsApp, Viber, Facebook, Hangouts, etc that I currently use with
-    my own platform for sending messages and calling (and video calls)."
+    tagline: "My current project I am working on in my free time. 
+    Web application and Android application (currently not on Google Play). 
+    Its goal is to replace all of WhatsApp, Viber, Facebook, Hangouts, etc that I currently use with
+    my own platform for sending messages, voice calls and video calls."
   - project:
     title: java-notepad
     link: "https://github.com/mluketin/java-notepad"
@@ -25,20 +27,22 @@ projects:
   - project:
     title: haskell-manga-reader
     link: "https://github.com/mluketin/haskell-manga-reader"
-    tagline: "This project was done as part of Programming in Haskell course at University of Zagreb. After building and running application,
-    small localhost server will be set up that will scrape manga website and allow user to read manga without being bothered with adds and pop-ups"
+    tagline: "This project was done as a part of Programming in Haskell course at the University of Zagreb. 
+    After building and running application, a small localhost server will be set up to
+    scrape manga website and allow a user to read manga without being bothered with adds and pop-ups"
   - project:
     title: scalaq
     link: "https://github.com/mluketin/scalaq"
-    tagline: "As part of my BSc Thesis, I created library for creating questionnaires (surveys) called scalaq. Library is written in Scala
-    and is used in scalaq-demo web application. Idea was to create library that will enable developers to create all kinds of questions for
+    tagline: "As a part of my BSc Thesis, I created a library for creating questionnaires (surveys) called scalaq.
+    The library is written in Scala and it is used in scalaq-demo web application. 
+    The idea was to a create library that will enable developers to create all kinds of questions for
     their survey applications. (Note: This was my first project in Scala)"
   - project: 
     title: scalaq-demo
     link: "https://github.com/mluketin/scalaq-demo"
-    tagline: "Web application written in Scala and Play! framework. Application allows users to create surveys, create links that they
-    can send to other users who will complete survey. Users can also download statistics on completed surveys. For database I used postgres,
+    tagline: "Web application written in Scala and Play! framework. 
+    The application allows the users to create surveys and links to these surveys that can be sent
+    to other users who will complete the survey. 
+    The users can also download statistics on completed surveys. For database I used Postgres,
     and ORM was done with DSL Platform (https://dsl-platform.com/). Exporting statistics into Excel spreadsheet was 
     done with Templater (http://templater.info/).
-    (Note: This was my first real web application and first project in Scala. Both scalaq and scalaq-demo are not some
-    state-of-the art projects.)"
