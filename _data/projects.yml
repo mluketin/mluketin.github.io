@@ -19,11 +19,14 @@ projects:
   - project:
     title: java-notepad
     link: "https://github.com/mluketin/java-notepad"
-    tagline: "Java Notepad project for Design Patterns in Software Design course."
+    tagline: "Java Notepad project for Design Patterns in Software Design course.
+    Swing application similar to common notepad applications. User can edit text, save and load it."
   - project:
     title: java-paint
     link: "https://github.com/mluketin/java-paint"
-    tagline: "Java Paint project for course Design Patterns in Software Design."
+    tagline: "Java Paint project for course Design Patterns in Software Design.
+    Swing application. User can paint shapes like lines and ovals (circles, elipses).
+    Shapes can be resized, translated, grouped into one shape, exported into SVG, etc."
   - project:
     title: haskell-manga-reader
     link: "https://github.com/mluketin/haskell-manga-reader"
