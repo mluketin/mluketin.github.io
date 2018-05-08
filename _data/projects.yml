@@ -46,3 +46,8 @@ projects:
     The users can also download statistics on completed surveys. For database I used Postgres,
     and ORM was done with DSL Platform (https://dsl-platform.com/). Exporting statistics into Excel spreadsheet was 
     done with Templater (http://templater.info/)."
+  - project:
+    title: zip-reformer
+    link: https://github.com/mluketin/zip-reformer
+    tagline: "Small library that takes multiple zip archives which are compressed over the same files with different settings,
+    and creates new archive that is smaller than all of the given archives."
