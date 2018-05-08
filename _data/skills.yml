@@ -22,6 +22,12 @@
 - skill:
   name: Unity
   level: 95%
+- skill:
+  name: Haskell
+  level: 95%
+- skill:
+  name: Microsoft HoloLens
+  level: 95%
 
   
 
