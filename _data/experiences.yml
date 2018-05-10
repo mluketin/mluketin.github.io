@@ -11,3 +11,10 @@
   company: Mentat Labs Ltd, Zagreb
   details: "Web scraping and automated web application testing by using Selenate (cloud-based
   web-scraping framework built on the top of Selenium WebDriver)"
+- experience:
+  role: Student assistant (Demonstrator)
+  time: Mar 2013 - June 2017
+  company: Faculty of Electrical Engineering and Computing, Zagreb
+  details: "Grading students' exercises and explaining study materials for courses: 
+  Programming and Software Engineering, Algorithms and Data Structures, Distributed
+  Big Data Processing"
