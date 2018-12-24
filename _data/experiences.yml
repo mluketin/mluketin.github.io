@@ -1,20 +1,25 @@
 - experience:
+  role: Software Engineer
+  time: Oct 2018 - Present
+  company: holo|one, Lenzbburg, Switzerland
+  details: "Developing augmented reality platform for businesses. https://holo-one.com/products/sphere/"
+- experience:
   role: Developer Intern
-  time: Jul 2016 - Present
-  company: Ericsson, Zagreb
+  time: Jul 2016 - Jul 2018
+  company: Ericsson, Zagreb, Croatia
   details: "Developing platform for real time communication that consists of HoloLens device on one side,
   and web application on the other side. Writing and deploying nodejs web socket servers, setting up TURN 
   and Kurento Media Servers, developing .NET MVC Web application and Unity HoloLens application, etc."
 - experience:
   role: Developer Intern
   time: Nov 2015 - Jul 2016
-  company: Mentat Labs Ltd, Zagreb
-  details: "Web scraping and automated web application testing by using Selenate (cloud-based
+  company: Mentat Labs Ltd, Zagreb, Croatia
+  details: "Web scraping and automated web application testing using Selenate (cloud-based
   web-scraping framework built on the top of Selenium WebDriver)"
 - experience:
   role: Student assistant (Demonstrator)
   time: Mar 2013 - June 2017
-  company: Faculty of Electrical Engineering and Computing, Zagreb
+  company: Faculty of Electrical Engineering and Computing, Zagreb, Croatia
   details: "Grading students' exercises and explaining study materials for courses: 
   Programming and Software Engineering, Algorithms and Data Structures, Distributed
   Big Data Processing"
